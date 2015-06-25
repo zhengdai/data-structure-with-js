@@ -13,6 +13,7 @@
 
 // 求含集合aList的幂集
 // 进入函数时已对A中前i-1个元素做了取舍处理
+//git 测试
 function getPowerSet(i, aList) {
     var bList = [];
 
